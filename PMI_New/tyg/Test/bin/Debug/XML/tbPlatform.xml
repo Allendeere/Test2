@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tbPlatform>
+  <Header ID="P01">
+    <Name>P0001</Name>
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <IPAddress>172.17.13.74</IPAddress>
+    <Port>502</Port>
+  </Header>
+  <Header ID="P02">
+    <Name>P0002</Name>
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <IPAddress>172.17.13.75</IPAddress>
+    <Port>502</Port>
+  </Header>
+  <Header ID="P03">
+    <Name>P0003</Name>
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <IPAddress>172.17.13.76</IPAddress>
+    <Port>502</Port>
+  </Header>
+</tbPlatform>

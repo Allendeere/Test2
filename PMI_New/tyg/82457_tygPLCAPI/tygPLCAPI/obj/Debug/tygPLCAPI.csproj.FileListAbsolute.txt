@@ -1,0 +1,277 @@
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.config
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Debug.config
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Release.config
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll.config
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.pdb
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Dands.Modbus.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\log4net.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Newtonsoft.Json.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\nModbusPC.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.pdb
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll.config
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.AssemblyReference.cache
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CoreCompileInputs.cache
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CopyComplete
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.pdb
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.config
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Debug.config
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Release.config
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll.config
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.pdb
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Dands.Modbus.dll
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\log4net.dll
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Newtonsoft.Json.dll
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\nModbusPC.dll
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.pdb
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll.config
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.AssemblyReference.cache
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CoreCompileInputs.cache
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CopyComplete
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.dll
+D:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.pdb
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Oracle.ManagedDataAccess.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.dll
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.xml
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.xml
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.xml
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.xml
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.xml
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.xml
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.config
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Debug.config
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Release.config
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll.config
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.pdb
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Dands.Modbus.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\log4net.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Newtonsoft.Json.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\nModbusPC.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Oracle.ManagedDataAccess.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.pdb
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll.config
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.xml
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.xml
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.xml
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.xml
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.xml
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.xml
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.xml
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.AssemblyReference.cache
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CoreCompileInputs.cache
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CopyComplete
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.dll
+E:\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.config
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Debug.config
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Release.config
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll.config
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Dands.Modbus.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\log4net.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Newtonsoft.Json.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\nModbusPC.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Oracle.ManagedDataAccess.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll.config
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.xml
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.xml
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.xml
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.xml
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.xml
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.xml
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.xml
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.AssemblyReference.cache
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CoreCompileInputs.cache
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CopyComplete
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Debug.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Release.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\log4net.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Newtonsoft.Json.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\nModbusPC.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CopyComplete
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-未更改 - 複製\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Debug.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Release.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\log4net.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Newtonsoft.Json.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\nModbusPC.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CopyComplete
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Debug.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Release.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\log4net.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Newtonsoft.Json.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\nModbusPC.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CopyComplete
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Debug.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Web.Release.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\tygPLCAPI.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\log4net.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Newtonsoft.Json.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\nModbusPC.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\HoleDetect.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Buffers.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Memory.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Numerics.Vectors.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Text.Json.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\bin\System.ValueTuple.xml
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.csproj.CopyComplete
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\82457_tygPLCAPI\tygPLCAPI\obj\Debug\tygPLCAPI.pdb

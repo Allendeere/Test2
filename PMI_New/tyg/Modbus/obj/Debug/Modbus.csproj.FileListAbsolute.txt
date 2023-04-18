@@ -1,0 +1,116 @@
+D:\RD\Modbus\Modbus\bin\Debug\Modbus.dll
+D:\RD\Modbus\Modbus\bin\Debug\Modbus.pdb
+D:\RD\Modbus\Modbus\bin\Debug\nmodbuspc.dll
+D:\RD\Modbus\Modbus\obj\Debug\Modbus.dll
+D:\RD\Modbus\Modbus\obj\Debug\Modbus.pdb
+D:\RD\Modbus\Modbus\obj\Debug\Modbus.csprojResolveAssemblyReference.cache
+D:\東陽\Software\S-TYG-HDET\Modbus\bin\Debug\nmodbuspc.dll
+D:\東陽\Software\S-TYG-HDET\Modbus\bin\Debug\Dands.Modbus.dll
+D:\東陽\Software\S-TYG-HDET\Modbus\bin\Debug\Dands.Modbus.pdb
+D:\東陽\Software\S-TYG-HDET\Modbus\obj\Debug\Dands.Modbus.dll
+D:\東陽\Software\S-TYG-HDET\Modbus\obj\Debug\Dands.Modbus.pdb
+D:\東陽\Software\S-TYG-HDET\Modbus\obj\Debug\Modbus.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\Modbus\bin\Debug\Dands.Modbus.dll
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\Modbus\bin\Debug\Dands.Modbus.pdb
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\Modbus\bin\Debug\nmodbuspc.dll
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\Modbus\obj\Debug\Dands.Modbus.dll
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\Modbus\obj\Debug\Dands.Modbus.pdb
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\Modbus\bin\Debug\log4net.dll
+D:\東陽\Software\Test\HoleDetection\Modbus\bin\Debug\Dands.Modbus.dll
+D:\東陽\Software\Test\HoleDetection\Modbus\bin\Debug\Dands.Modbus.pdb
+D:\東陽\Software\Test\HoleDetection\Modbus\bin\Debug\log4net.dll
+D:\東陽\Software\Test\HoleDetection\Modbus\bin\Debug\nmodbuspc.dll
+D:\東陽\Software\Test\HoleDetection\Modbus\obj\Debug\Modbus.csprojResolveAssemblyReference.cache
+D:\東陽\Software\Test\HoleDetection\Modbus\obj\Debug\Dands.Modbus.dll
+D:\東陽\Software\Test\HoleDetection\Modbus\obj\Debug\Dands.Modbus.pdb
+C:\Users\Michael\Desktop\tyg\Modbus\bin\Debug\Dands.Modbus.dll
+C:\Users\Michael\Desktop\tyg\Modbus\bin\Debug\Dands.Modbus.pdb
+C:\Users\Michael\Desktop\tyg\Modbus\bin\Debug\log4net.dll
+C:\Users\Michael\Desktop\tyg\Modbus\bin\Debug\nmodbuspc.dll
+C:\Users\Michael\Desktop\tyg\Modbus\obj\Debug\Dands.Modbus.dll
+C:\Users\Michael\Desktop\tyg\Modbus\obj\Debug\Dands.Modbus.pdb
+C:\Users\Administrator\Desktop\tyg\Modbus\bin\Debug\Dands.Modbus.dll
+C:\Users\Administrator\Desktop\tyg\Modbus\bin\Debug\Dands.Modbus.pdb
+C:\Users\Administrator\Desktop\tyg\Modbus\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\tyg\Modbus\bin\Debug\nmodbuspc.dll
+C:\Users\Administrator\Desktop\tyg\Modbus\obj\Debug\Dands.Modbus.dll
+C:\Users\Administrator\Desktop\tyg\Modbus\obj\Debug\Dands.Modbus.pdb
+C:\Users\Administrator\Desktop\tyg\Modbus\obj\Debug\Modbus.csprojResolveAssemblyReference.cache
+C:\PMI code\tyg\Modbus\bin\Debug\Dands.Modbus.dll
+C:\PMI code\tyg\Modbus\bin\Debug\Dands.Modbus.pdb
+C:\PMI code\tyg\Modbus\bin\Debug\log4net.dll
+C:\PMI code\tyg\Modbus\bin\Debug\nmodbuspc.dll
+C:\PMI code\tyg\Modbus\obj\Debug\Dands.Modbus.dll
+C:\PMI code\tyg\Modbus\obj\Debug\Dands.Modbus.pdb
+C:\Users\21973\Desktop\PMI Code\tyg\Modbus\bin\Debug\Dands.Modbus.dll
+C:\Users\21973\Desktop\PMI Code\tyg\Modbus\bin\Debug\Dands.Modbus.pdb
+C:\Users\21973\Desktop\PMI Code\tyg\Modbus\bin\Debug\log4net.dll
+C:\Users\21973\Desktop\PMI Code\tyg\Modbus\bin\Debug\nmodbuspc.dll
+C:\Users\21973\Desktop\PMI Code\tyg\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\21973\Desktop\PMI Code\tyg\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\21973\Desktop\PMI Code\tyg\Modbus\obj\Debug\Dands.Modbus.dll
+C:\Users\21973\Desktop\PMI Code\tyg\Modbus\obj\Debug\Dands.Modbus.pdb
+C:\Users\21973\Desktop\PMI Code\tyg\Modbus\obj\Debug\Modbus.csprojAssemblyReference.cache
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\Modbus\bin\Debug\Dands.Modbus.dll
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\Modbus\bin\Debug\Dands.Modbus.pdb
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\Modbus\bin\Debug\log4net.dll
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\Modbus\bin\Debug\nmodbuspc.dll
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\Modbus\obj\Debug\Dands.Modbus.dll
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\Modbus\obj\Debug\Dands.Modbus.pdb
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\Modbus\obj\Debug\Modbus.csprojAssemblyReference.cache
+D:\tyg\PMI_Code_New\tyg\Modbus\bin\Debug\Dands.Modbus.dll
+D:\tyg\PMI_Code_New\tyg\Modbus\bin\Debug\Dands.Modbus.pdb
+D:\tyg\PMI_Code_New\tyg\Modbus\bin\Debug\log4net.dll
+D:\tyg\PMI_Code_New\tyg\Modbus\bin\Debug\nmodbuspc.dll
+D:\tyg\PMI_Code_New\tyg\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+D:\tyg\PMI_Code_New\tyg\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+D:\tyg\PMI_Code_New\tyg\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+D:\tyg\PMI_Code_New\tyg\Modbus\obj\Debug\Dands.Modbus.dll
+D:\tyg\PMI_Code_New\tyg\Modbus\obj\Debug\Dands.Modbus.pdb
+C:\PMI_New\tyg\Modbus\bin\Debug\Dands.Modbus.dll
+C:\PMI_New\tyg\Modbus\bin\Debug\Dands.Modbus.pdb
+C:\PMI_New\tyg\Modbus\bin\Debug\log4net.dll
+C:\PMI_New\tyg\Modbus\bin\Debug\nmodbuspc.dll
+C:\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\PMI_New\tyg\Modbus\obj\Debug\Dands.Modbus.dll
+C:\PMI_New\tyg\Modbus\obj\Debug\Dands.Modbus.pdb
+D:\PMI_New\tyg\Modbus\bin\Debug\Dands.Modbus.dll
+D:\PMI_New\tyg\Modbus\bin\Debug\Dands.Modbus.pdb
+D:\PMI_New\tyg\Modbus\bin\Debug\log4net.dll
+D:\PMI_New\tyg\Modbus\bin\Debug\nmodbuspc.dll
+D:\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+D:\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+D:\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+D:\PMI_New\tyg\Modbus\obj\Debug\Dands.Modbus.dll
+D:\PMI_New\tyg\Modbus\obj\Debug\Dands.Modbus.pdb
+E:\PMI_New\tyg\Modbus\bin\Debug\Dands.Modbus.dll
+E:\PMI_New\tyg\Modbus\bin\Debug\Dands.Modbus.pdb
+E:\PMI_New\tyg\Modbus\bin\Debug\log4net.dll
+E:\PMI_New\tyg\Modbus\bin\Debug\nmodbuspc.dll
+E:\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+E:\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+E:\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+E:\PMI_New\tyg\Modbus\obj\Debug\Dands.Modbus.dll
+E:\PMI_New\tyg\Modbus\obj\Debug\Dands.Modbus.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Modbus\bin\Debug\Dands.Modbus.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Modbus\bin\Debug\Dands.Modbus.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Modbus\bin\Debug\log4net.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Modbus\bin\Debug\nmodbuspc.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Modbus\obj\Debug\Dands.Modbus.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Modbus\obj\Debug\Dands.Modbus.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Modbus\bin\Debug\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Modbus\bin\Debug\Dands.Modbus.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Modbus\bin\Debug\log4net.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Modbus\bin\Debug\nmodbuspc.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Modbus\obj\Debug\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Modbus\obj\Debug\Dands.Modbus.pdb

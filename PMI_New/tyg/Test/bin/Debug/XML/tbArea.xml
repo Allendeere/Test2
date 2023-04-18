@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<tbArea>
+  <Header ID="A02">
+    <Name>A0002</Name>
+    <FactoryID>F01</FactoryID>
+    <IPAddress>172.17.13.250</IPAddress>
+    <Port>502</Port>
+  </Header>
+</tbArea>

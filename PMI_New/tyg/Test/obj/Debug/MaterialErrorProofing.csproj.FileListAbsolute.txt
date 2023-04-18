@@ -1,0 +1,152 @@
+D:\tyg\PMI_Code_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.AssemblyReference.cache
+D:\tyg\PMI_Code_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.SuggestedBindingRedirects.cache
+D:\tyg\PMI_Code_New\tyg\Test\obj\Debug\MaterialErrorProofing.FormDetection.resources
+D:\tyg\PMI_Code_New\tyg\Test\obj\Debug\MaterialErrorProofing.Properties.Resources.resources
+D:\tyg\PMI_Code_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.GenerateResource.cache
+D:\tyg\PMI_Code_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CoreCompileInputs.cache
+D:\tyg\PMI_Code_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe.config
+D:\tyg\PMI_Code_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe
+D:\tyg\PMI_Code_New\tyg\Test\bin\Debug\MaterialErrorProofing.pdb
+D:\tyg\PMI_Code_New\tyg\Test\bin\Debug\Dands.Modbus.dll
+D:\tyg\PMI_Code_New\tyg\Test\bin\Debug\HoleDetect.dll
+D:\tyg\PMI_Code_New\tyg\Test\bin\Debug\nModbusPC.dll
+D:\tyg\PMI_Code_New\tyg\Test\bin\Debug\log4net.dll
+D:\tyg\PMI_Code_New\tyg\Test\bin\Debug\HoleDetect.pdb
+D:\tyg\PMI_Code_New\tyg\Test\bin\Debug\HoleDetect.dll.config
+D:\tyg\PMI_Code_New\tyg\Test\bin\Debug\Dands.Modbus.pdb
+D:\tyg\PMI_Code_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CopyComplete
+D:\tyg\PMI_Code_New\tyg\Test\obj\Debug\MaterialErrorProofing.exe
+D:\tyg\PMI_Code_New\tyg\Test\obj\Debug\MaterialErrorProofing.pdb
+C:\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe.config
+C:\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe
+C:\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.pdb
+C:\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.dll
+C:\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll
+C:\PMI_New\tyg\Test\bin\Debug\nModbusPC.dll
+C:\PMI_New\tyg\Test\bin\Debug\log4net.dll
+C:\PMI_New\tyg\Test\bin\Debug\HoleDetect.pdb
+C:\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll.config
+C:\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.pdb
+C:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.AssemblyReference.cache
+C:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.SuggestedBindingRedirects.cache
+C:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.FormDetection.resources
+C:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.Properties.Resources.resources
+C:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.GenerateResource.cache
+C:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CoreCompileInputs.cache
+C:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CopyComplete
+C:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.exe
+C:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.pdb
+D:\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe.config
+D:\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe
+D:\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.pdb
+D:\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.dll
+D:\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll
+D:\PMI_New\tyg\Test\bin\Debug\nModbusPC.dll
+D:\PMI_New\tyg\Test\bin\Debug\log4net.dll
+D:\PMI_New\tyg\Test\bin\Debug\HoleDetect.pdb
+D:\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll.config
+D:\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.pdb
+D:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.AssemblyReference.cache
+D:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.SuggestedBindingRedirects.cache
+D:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.FormDetection.resources
+D:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.Properties.Resources.resources
+D:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.GenerateResource.cache
+D:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CoreCompileInputs.cache
+D:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CopyComplete
+D:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.exe
+D:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.pdb
+E:\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe.config
+E:\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe
+E:\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.pdb
+E:\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.dll
+E:\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll
+E:\PMI_New\tyg\Test\bin\Debug\nModbusPC.dll
+E:\PMI_New\tyg\Test\bin\Debug\log4net.dll
+E:\PMI_New\tyg\Test\bin\Debug\HoleDetect.pdb
+E:\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll.config
+E:\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.pdb
+E:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.AssemblyReference.cache
+E:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.SuggestedBindingRedirects.cache
+E:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.FormDetection.resources
+E:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.Properties.Resources.resources
+E:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.GenerateResource.cache
+E:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CoreCompileInputs.cache
+E:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CopyComplete
+E:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.exe
+E:\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe.config
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\bin\Debug\nModbusPC.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\bin\Debug\log4net.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\bin\Debug\HoleDetect.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll.config
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.AssemblyReference.cache
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.SuggestedBindingRedirects.cache
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.FormDetection.resources
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.Properties.Resources.resources
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.GenerateResource.cache
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CoreCompileInputs.cache
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CopyComplete
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.exe
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\bin\Debug\nModbusPC.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\bin\Debug\log4net.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\bin\Debug\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.FormDetection.resources
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.Properties.Resources.resources
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.GenerateResource.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CopyComplete
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.exe
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.FormDetection.resources
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.Properties.Resources.resources
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.GenerateResource.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.exe
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\bin\Debug\nModbusPC.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\bin\Debug\log4net.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\bin\Debug\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CopyComplete
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.exe
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\bin\Debug\MaterialErrorProofing.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\bin\Debug\nModbusPC.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\bin\Debug\log4net.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\bin\Debug\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\bin\Debug\HoleDetect.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\bin\Debug\Dands.Modbus.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.FormDetection.resources
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.Properties.Resources.resources
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.GenerateResource.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.csproj.CopyComplete
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.exe
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\Test\obj\Debug\MaterialErrorProofing.pdb

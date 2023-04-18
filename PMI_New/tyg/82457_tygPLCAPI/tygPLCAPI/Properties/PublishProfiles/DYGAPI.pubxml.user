@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+此檔案是由您 Web 專案的發行/封裝處理程序所使用。您可以編輯此 MSBuild 檔案，
+以自訂此處理程序的行為。若要深入了解，請造訪 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\tyg_webservice</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Dands.Modbus.dll">
+      <publishTime>09/06/2017 11:51:58</publishTime>
+    </File>
+    <File Include="bin/HoleDetect.dll">
+      <publishTime>09/06/2017 11:51:59</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>06/14/2017 12:05:30</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>05/19/2017 10:48:38</publishTime>
+    </File>
+    <File Include="bin/nModbusPC.dll">
+      <publishTime>06/14/2017 12:05:30</publishTime>
+    </File>
+    <File Include="bin/tygPLCAPI.dll">
+      <publishTime>09/07/2017 10:31:56</publishTime>
+    </File>
+    <File Include="bin/tygPLCAPI.XmlSerializers.dll">
+      <publishTime>09/07/2017 10:31:57</publishTime>
+    </File>
+    <File Include="css/all.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/area_device_m_edit.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/authority_m.css">
+      <publishTime>07/25/2017 14:53:46</publishTime>
+    </File>
+    <File Include="css/authority_m_add.css">
+      <publishTime>07/25/2017 14:53:46</publishTime>
+    </File>
+    <File Include="css/authority_m_add_member.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/bootstrap.css.map">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/device_status_detail.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/device_status_plan.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/factory_m.css">
+      <publishTime>07/25/2017 14:53:46</publishTime>
+    </File>
+    <File Include="css/factory_m_edit.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/general.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/history.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/history_info.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/index.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/luo_default.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/mat_station.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/mat_station_edit.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/mat_station_m.css">
+      <publishTime>07/25/2017 14:53:44</publishTime>
+    </File>
+    <File Include="css/mat_station_m_edit.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/menu.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="css/news.css">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="DLL/Dands.Modbus.dll">
+      <publishTime>06/14/2017 12:05:30</publishTime>
+    </File>
+    <File Include="DLL/HoleDetect.dll">
+      <publishTime>06/14/2017 12:05:30</publishTime>
+    </File>
+    <File Include="DLL/log4net.dll">
+      <publishTime>06/14/2017 12:05:30</publishTime>
+    </File>
+    <File Include="DLL/nModbusPC.dll">
+      <publishTime>06/14/2017 12:05:30</publishTime>
+    </File>
+    <File Include="HoleDetectService.asmx">
+      <publishTime>06/06/2017 10:12:06</publishTime>
+    </File>
+    <File Include="image/abtn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/area-btn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/ball-gray.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/ball-red.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/cbtn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/content_bg.jpg">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/dbtn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/fabtn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/fa_bg.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/fa_device1.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/fa_device2.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/fa_device3.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/fbtn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/head_bg.jpg">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/ibtn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/logo.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/mbtn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/menubtn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/outbtn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/plcbg.jpg">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/sbtn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/scroll_top.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/statistic-btn.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="image/upload-img.png">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="IUDService.asmx">
+      <publishTime>06/06/2017 16:28:44</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="js/device_status_plan.js">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="js/jquery-1.12.0.min.js">
+      <publishTime>05/18/2017 16:58:10</publishTime>
+    </File>
+    <File Include="log4net.dll">
+      <publishTime>06/03/2017 13:45:28</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/05/2017 13:48:46</publishTime>
+    </File>
+    <File Include="Service1.asmx">
+      <publishTime>05/18/2017 16:16:40</publishTime>
+    </File>
+    <File Include="Service2.asmx">
+      <publishTime>05/18/2017 17:18:47</publishTime>
+    </File>
+    <File Include="Web References/HoleDetectServiceReference/Reference.map">
+      <publishTime>07/18/2017 15:25:28</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/15/2017 17:15:44</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>07/25/2017 14:53:45</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

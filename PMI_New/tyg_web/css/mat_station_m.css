@@ -1,0 +1,67 @@
+
+.v1 p
+{
+    margin: 10px 0px;
+}
+
+.table_ctrl 
+{
+    min-height: 50px;
+}
+
+
+.my_table
+{
+    color: #272727;
+    font-weight: bold;
+}
+
+.my_table td
+{
+    border: 1px #a0a0a0 solid;
+}
+
+/* >500 <=767px */
+@media (min-width: 501px) and (max-width: 767px)
+{
+    .my_table
+    {
+        width: 99%;
+    }
+}
+
+/* <=650 */
+@media (max-width: 650px) 
+{
+    .my_table td
+    {
+        font-size: 10pt;
+    }
+}
+
+
+
+.my_table thead
+{
+    background-color: #505050;
+    color: #fff;
+}
+
+.my_table thead th
+{
+    text-align: center;
+}
+
+.my_table tbody td
+{
+    text-align: center;
+    vertical-align:middle;
+	background-color: #e8e8e8;
+}
+
+
+.carousel-indicators{ bottom: -45px;}
+
+
+
+

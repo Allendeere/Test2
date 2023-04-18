@@ -1,0 +1,227 @@
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\HoleDetect.exe.config
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\HoleDetect.exe
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\HoleDetect.pdb
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\Dands.Modbus.dll
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\nModbusPC.dll
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\Dands.Modbus.pdb
+D:\東陽\Software\S-TYG-HDET\RemoteIO\obj\Debug\HoleDetect.csprojResolveAssemblyReference.cache
+D:\東陽\Software\S-TYG-HDET\RemoteIO\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+D:\東陽\Software\S-TYG-HDET\RemoteIO\obj\Debug\HoleDetect.csproj.GenerateResource.Cache
+D:\東陽\Software\S-TYG-HDET\RemoteIO\obj\Debug\HoleDetect.exe
+D:\東陽\Software\S-TYG-HDET\RemoteIO\obj\Debug\HoleDetect.pdb
+D:\東陽\Software\S-TYG-HDET\HoleDetect\bin\Debug\HoleDetect.pdb
+D:\東陽\Software\S-TYG-HDET\HoleDetect\bin\Debug\Dands.Modbus.dll
+D:\東陽\Software\S-TYG-HDET\HoleDetect\bin\Debug\nModbusPC.dll
+D:\東陽\Software\S-TYG-HDET\HoleDetect\bin\Debug\Dands.Modbus.pdb
+D:\東陽\Software\S-TYG-HDET\HoleDetect\obj\Debug\HoleDetect.csprojResolveAssemblyReference.cache
+D:\東陽\Software\S-TYG-HDET\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+D:\東陽\Software\S-TYG-HDET\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.Cache
+D:\東陽\Software\S-TYG-HDET\HoleDetect\obj\Debug\HoleDetect.pdb
+D:\東陽\Software\S-TYG-HDET\HoleDetect\bin\Debug\HoleDetect.dll
+D:\東陽\Software\S-TYG-HDET\HoleDetect\obj\Debug\HoleDetect.dll
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\HoleDetect\bin\Debug\HoleDetect.dll
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\HoleDetect\bin\Debug\HoleDetect.pdb
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\HoleDetect\bin\Debug\Dands.Modbus.dll
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\HoleDetect\bin\Debug\nModbusPC.dll
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\HoleDetect\bin\Debug\Dands.Modbus.pdb
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\HoleDetect\obj\Debug\HoleDetect.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\HoleDetect\obj\Debug\HoleDetect.dll
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\Users\Michael\Desktop\PLC機台入料監控平台建置- 系統相關資料 20170605\PLC機台入料監控平台建置- 系統相關資料 20170605\HoleDetect\bin\Debug\log4net.dll
+D:\東陽\Software\Test\HoleDetection\HoleDetect\bin\Debug\HoleDetect.dll
+D:\東陽\Software\Test\HoleDetection\HoleDetect\bin\Debug\HoleDetect.pdb
+D:\東陽\Software\Test\HoleDetection\HoleDetect\bin\Debug\Dands.Modbus.dll
+D:\東陽\Software\Test\HoleDetection\HoleDetect\bin\Debug\nModbusPC.dll
+D:\東陽\Software\Test\HoleDetection\HoleDetect\bin\Debug\log4net.dll
+D:\東陽\Software\Test\HoleDetection\HoleDetect\bin\Debug\Dands.Modbus.pdb
+D:\東陽\Software\Test\HoleDetection\HoleDetect\obj\Debug\HoleDetect.csprojResolveAssemblyReference.cache
+D:\東陽\Software\Test\HoleDetection\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+D:\東陽\Software\Test\HoleDetection\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.Cache
+D:\東陽\Software\Test\HoleDetection\HoleDetect\obj\Debug\HoleDetect.dll
+D:\東陽\Software\Test\HoleDetection\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetect\bin\Debug\HoleDetect.dll
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetect\bin\Debug\HoleDetect.pdb
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetect\bin\Debug\Dands.Modbus.dll
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetect\bin\Debug\nModbusPC.dll
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetect\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetect\bin\Debug\Dands.Modbus.pdb
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetect\obj\Debug\HoleDetect.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetect\obj\Debug\HoleDetect.dll
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\Users\Michael\Desktop\tyg\HoleDetect\obj\Debug\HoleDetect.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+C:\Users\Michael\Desktop\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+C:\Users\Michael\Desktop\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\Users\Michael\Desktop\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+C:\Users\Michael\Desktop\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+C:\Users\Michael\Desktop\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+C:\Users\Michael\Desktop\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+C:\Users\Michael\Desktop\tyg\HoleDetect\bin\Debug\log4net.dll
+C:\Users\Michael\Desktop\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+C:\Users\Administrator\Desktop\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+C:\Users\Administrator\Desktop\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+C:\Users\Administrator\Desktop\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+C:\Users\Administrator\Desktop\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+C:\Users\Administrator\Desktop\tyg\HoleDetect\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+C:\Users\Administrator\Desktop\tyg\HoleDetect\obj\Debug\HoleDetect.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+C:\Users\Administrator\Desktop\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+C:\Users\Administrator\Desktop\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\PMI code\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+C:\PMI code\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+C:\PMI code\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+C:\PMI code\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+C:\PMI code\tyg\HoleDetect\bin\Debug\log4net.dll
+C:\PMI code\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+C:\PMI code\tyg\HoleDetect\obj\Debug\HoleDetect.csprojResolveAssemblyReference.cache
+C:\PMI code\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+C:\PMI code\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.Cache
+C:\PMI code\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+C:\PMI code\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\bin\Debug\HoleDetect.dll.config
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\bin\Debug\log4net.dll
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.csprojAssemblyReference.cache
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.cache
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CoreCompileInputs.cache
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CopyComplete
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+C:\Users\21973\Desktop\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\bin\Debug\HoleDetect.dll.config
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\bin\Debug\log4net.dll
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.csprojAssemblyReference.cache
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.cache
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CoreCompileInputs.cache
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CopyComplete
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+C:\Users\21973\Desktop\程式作業\自動化相關\PMI Code\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+D:\tyg\PMI_Code_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll.config
+D:\tyg\PMI_Code_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+D:\tyg\PMI_Code_New\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+D:\tyg\PMI_Code_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+D:\tyg\PMI_Code_New\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+D:\tyg\PMI_Code_New\tyg\HoleDetect\bin\Debug\log4net.dll
+D:\tyg\PMI_Code_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+D:\tyg\PMI_Code_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.AssemblyReference.cache
+D:\tyg\PMI_Code_New\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+D:\tyg\PMI_Code_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.cache
+D:\tyg\PMI_Code_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CoreCompileInputs.cache
+D:\tyg\PMI_Code_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CopyComplete
+D:\tyg\PMI_Code_New\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+D:\tyg\PMI_Code_New\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll.config
+C:\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+C:\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+C:\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+C:\PMI_New\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+C:\PMI_New\tyg\HoleDetect\bin\Debug\log4net.dll
+C:\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+C:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.AssemblyReference.cache
+C:\PMI_New\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+C:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.cache
+C:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CoreCompileInputs.cache
+C:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CopyComplete
+C:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+C:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+D:\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll.config
+D:\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+D:\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+D:\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+D:\PMI_New\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+D:\PMI_New\tyg\HoleDetect\bin\Debug\log4net.dll
+D:\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+D:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.AssemblyReference.cache
+D:\PMI_New\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+D:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.cache
+D:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CoreCompileInputs.cache
+D:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CopyComplete
+D:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+D:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+E:\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll.config
+E:\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+E:\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+E:\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+E:\PMI_New\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+E:\PMI_New\tyg\HoleDetect\bin\Debug\log4net.dll
+E:\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+E:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.AssemblyReference.cache
+E:\PMI_New\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+E:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.cache
+E:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CoreCompileInputs.cache
+E:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CopyComplete
+E:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+E:\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll.config
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\bin\Debug\log4net.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.AssemblyReference.cache
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.cache
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CoreCompileInputs.cache
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CopyComplete
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+D:\Ubay\專案\供料防呆\SRC\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\bin\Debug\log4net.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CopyComplete
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改 -\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\log4net.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CopyComplete
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\TYG.HoleDetect.Properties.Resources.resources
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.GenerateResource.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll.config
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\HoleDetect.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\nModbusPC.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\log4net.dll
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\bin\Debug\Dands.Modbus.pdb
+C:\Users\Allen\Desktop\繳交桶\(DBPMI平台更改一對多)差異添加\新舊版本\差異-更改\PMI_New\tyg\HoleDetect\obj\Debug\HoleDetect.csproj.CopyComplete

@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\tyg\HoleDetect\obj\Release\TYG.HoleDetect.Properties.Resources.resources
+C:\Users\Administrator\Desktop\tyg\HoleDetect\obj\Release\HoleDetect.csproj.GenerateResource.Cache

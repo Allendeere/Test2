@@ -1,0 +1,11 @@
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\RemoteIO.exe.config
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\RemoteIO.exe
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\RemoteIO.pdb
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\Dands.Modbus.dll
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\nModbusPC.dll
+D:\東陽\Software\S-TYG-HDET\RemoteIO\bin\Debug\Dands.Modbus.pdb
+D:\東陽\Software\S-TYG-HDET\RemoteIO\obj\Debug\RemoteIO.csprojResolveAssemblyReference.cache
+D:\東陽\Software\S-TYG-HDET\RemoteIO\obj\Debug\TYG.RemoteIO.Properties.Resources.resources
+D:\東陽\Software\S-TYG-HDET\RemoteIO\obj\Debug\RemoteIO.csproj.GenerateResource.Cache
+D:\東陽\Software\S-TYG-HDET\RemoteIO\obj\Debug\RemoteIO.exe
+D:\東陽\Software\S-TYG-HDET\RemoteIO\obj\Debug\RemoteIO.pdb

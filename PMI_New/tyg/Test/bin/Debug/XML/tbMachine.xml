@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<tbMachine>
+  <Header ID="1805">
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <PlatformID>P01</PlatformID>
+    <SlaveNo>1</SlaveNo>
+    <ChannelNo>1</ChannelNo>
+  </Header>
+  <Header ID="1803">
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <PlatformID>P01</PlatformID>
+    <SlaveNo>2</SlaveNo>
+    <ChannelNo>2</ChannelNo>
+  </Header>
+  <Header ID="1804">
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <PlatformID>P01</PlatformID>
+    <SlaveNo>3</SlaveNo>
+    <ChannelNo>3</ChannelNo>
+  </Header>
+  <Header ID="1808">
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <PlatformID>P01</PlatformID>
+    <SlaveNo>4</SlaveNo>
+    <ChannelNo>4</ChannelNo>
+  </Header>
+  <Header ID="1811">
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <PlatformID>P02</PlatformID>
+    <SlaveNo>5</SlaveNo>
+    <ChannelNo>1</ChannelNo>
+  </Header>
+  <Header ID="1812">
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <PlatformID>P02</PlatformID>
+    <SlaveNo>6</SlaveNo>
+    <ChannelNo>2</ChannelNo>
+  </Header>
+  <Header ID="1813">
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <PlatformID>P02</PlatformID>
+    <SlaveNo>7</SlaveNo>
+    <ChannelNo>3</ChannelNo>
+  </Header>
+  <Header ID="1814">
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <PlatformID>P03</PlatformID>
+    <SlaveNo>8</SlaveNo>
+    <ChannelNo>1</ChannelNo>
+  </Header>
+  <Header ID="1810">
+    <FactoryID>F01</FactoryID>
+    <AreaID>A02</AreaID>
+    <PlatformID>P03</PlatformID>
+    <SlaveNo>9</SlaveNo>
+    <ChannelNo>2</ChannelNo>
+  </Header>
+</tbMachine>

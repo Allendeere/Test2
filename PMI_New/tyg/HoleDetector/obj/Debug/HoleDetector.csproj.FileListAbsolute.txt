@@ -1,0 +1,17 @@
+D:\東陽\Software\Test\HoleDetection\HoleDetector\bin\Debug\HoleDetector.exe.config
+D:\東陽\Software\Test\HoleDetection\HoleDetector\bin\Debug\HoleDetector.exe
+D:\東陽\Software\Test\HoleDetection\HoleDetector\bin\Debug\HoleDetector.pdb
+D:\東陽\Software\Test\HoleDetection\HoleDetector\obj\Debug\HoleDetector.csprojResolveAssemblyReference.cache
+D:\東陽\Software\Test\HoleDetection\HoleDetector\obj\Debug\HoleDetector.exe
+D:\東陽\Software\Test\HoleDetection\HoleDetector\obj\Debug\HoleDetector.pdb
+D:\東陽\Software\Test\HoleDetection\HoleDetector\bin\Debug\Dands.Modbus.dll
+D:\東陽\Software\Test\HoleDetection\HoleDetector\bin\Debug\HoleDetect.dll
+D:\東陽\Software\Test\HoleDetection\HoleDetector\bin\Debug\nModbusPC.dll
+D:\東陽\Software\Test\HoleDetection\HoleDetector\bin\Debug\log4net.dll
+D:\東陽\Software\Test\HoleDetection\HoleDetector\bin\Debug\HoleDetect.pdb
+D:\東陽\Software\Test\HoleDetection\HoleDetector\bin\Debug\Dands.Modbus.pdb
+D:\東陽\Software\Test\HoleDetection\HoleDetector\bin\Debug\Newtonsoft.Json.dll
+D:\東陽\Software\Test\HoleDetection\HoleDetector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetector\bin\Debug\HoleDetector.exe.config
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetector\obj\Debug\HoleDetector.exe
+C:\Users\Administrator\Desktop\HoleDetection\HoleDetector\obj\Debug\HoleDetector.pdb

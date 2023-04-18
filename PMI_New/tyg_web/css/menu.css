@@ -1,0 +1,64 @@
+﻿
+
+/*優惠訊息*/
+.v1
+{
+    padding: 10px;
+}
+
+.v1 p
+{
+    margin: 10px 0px;
+}
+
+.v1 a p
+{
+    font-size: 34px;
+    text-align: center;
+}
+
+.v1 #myTab
+{
+    border-bottom: 0px;
+}
+
+.v1 #myTab a
+{
+    color: #000;
+    border: 1px solid #505050;
+    font-size: 1.2em;
+}
+
+.v1 #myTab a:hover
+{
+    color: #f7f7f7;
+    background-color: #525252;
+    border: 1px solid #000; 
+}
+
+.v1 #myTab .active a
+{
+    color: #f7f7f7;
+    background-color: #525252;
+    border: 1px solid #000;
+    font-size: 1.2em; 
+}
+
+.v1 .tab-content
+{
+    border: 1px solid #505050;
+    min-height: 210px;
+    padding: 30px;
+    background-color: #e0e0e0;
+}
+
+.carousel-indicators{ bottom: -45px;}
+
+
+@media screen and (max-width: 435px){
+    .menu-btn .col-xs-4{
+        width: 50%;
+    }
+}
+
+

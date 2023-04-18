@@ -1,0 +1,37 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.small-table{
+    display: none;
+}
+
+#my_table {
+    color: #272727;
+    font-weight: bold;
+}
+
+/*
+#my_table thead {
+    background-color: #f7f7f7;
+    color: #000;
+}
+*/
+
+#my_table_sm {
+    color: #272727;
+    font-weight: bold;
+}
+
+#my_table_sm thead {
+    background-color: #f7f7f7;
+    color: #000;
+}
+
+
+@media screen and (max-width: 767px){
+    .big-table{
+        display: none;
+    }
+    .small-table{
+        display: table;
+    }
+}
