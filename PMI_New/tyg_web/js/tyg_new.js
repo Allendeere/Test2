@@ -925,7 +925,7 @@ var platform = {
                     $("#note").val(json.Data[0].Note);
                     $("#modDate").html(json.Data[0].Updater + "\n" + json.Data[0].AlterDate);
 
-                    
+
                     for (i = 0; i < json.Data.length; i++) {
 
                         var option = document.querySelector('option[value="' + json.Data[0].AreaID + '"]');
@@ -1146,7 +1146,7 @@ var rio = {
 
             alert("刪除成功!!!");
             window.location.reload();
-           
+
         }
     },
     getRIO: function (rioID) {
@@ -1228,9 +1228,9 @@ var rio = {
         if (targetRemove != null) targetRemove.parentNode.removeChild(targetRemove);
         if (elements != null) {
             for (var i = 0; i < elements.length; i++) {
- 
-                    elements[i].parentNode.removeChild(elements[i]);
-                
+
+                elements[i].parentNode.removeChild(elements[i]);
+
             }
         };
         //if (elements != null) elements.parentNode.removeChild(elements);
@@ -1329,13 +1329,13 @@ var rio = {
                                 var tp = tr_platform.insertCell(z);
                                 tp.classList.add("align-middle");
                                 tp.setAttribute("style", "width: 32.5999%");
-                                if (z == 0) { tp.classList.add("col-lg-3"); tp.classList.add("bc_gray3"); tp.innerHTML = "IP";  }
+                                if (z == 0) { tp.classList.add("col-lg-3"); tp.classList.add("bc_gray3"); tp.innerHTML = "IP"; }
                                 if (z == 1) { tp.classList.add("col-lg-1"); tp.classList.add("bc_gray3"); tp.innerHTML = "對應成形機"; }
                                 if (z == 2) { tp.classList.add("col-lg-7"); tp.classList.add("bc_gray3"); tp.innerHTML = "操作管理"; }
                             }
                             o++;
                         }
-                      
+
 
                         var targetElement = document.getElementById(temstorep);
 
@@ -1355,8 +1355,8 @@ var rio = {
                         tbody.getElementsByTagName("tr")[o].id = json.Data[i].RIOID;
                         tbody.getElementsByTagName("tr")[o].getElementsByTagName("td")[0].innerHTML = json.Data[i].RIOIP;
                         tbody.getElementsByTagName("tr")[o].getElementsByTagName("td")[1].innerHTML = json.Data[i].RIOMachineID;
-                        tbody.getElementsByTagName("tr")[o].getElementsByTagName("td")[1].setAttribute("onclick", "machine.getByRIO(\""+ json.Data[i].RIOID +"\")");
-                        tbody.getElementsByTagName("tr")[o].getElementsByTagName("td")[1].setAttribute("id", json.Data[i].RIOID+"btn");
+                        tbody.getElementsByTagName("tr")[o].getElementsByTagName("td")[1].setAttribute("onclick", "machine.getByRIO(\"" + json.Data[i].RIOID + "\")");
+                        tbody.getElementsByTagName("tr")[o].getElementsByTagName("td")[1].setAttribute("id", json.Data[i].RIOID + "btn");
                         tbody.getElementsByTagName("tr")[o].getElementsByTagName("td")[2].innerHTML = ((check == 2) ? "<button type='button' style='color: #fff;background-color: #337ab7;border-color: #2e6da4;' class='btn btn-sm' onclick='rio.gotoMod(\"" + json.Data[i].RIOID + "\")'>設定</button>\n<button type='button' class='btn btn-sm' style='color: #fff;background-color: #337ab7;border-color: #2e6da4;' onclick='rio.delRIO(\"" + json.Data[i].RIOID + "\")'>刪除</button>" : "");
 
 
@@ -2529,13 +2529,13 @@ var machine = {
                     var xmlDoc = parser.parseFromString(this.responseText, "text/xml");
                     var json = JSON.parse(xmlDoc.getElementsByTagName("GetMachineByRioIDResult")[0].innerHTML);
 
-                    
+
 
                     rio.closePn();
 
                     //--------------------------
                     var targetElement = document.getElementById(rioID);
-                    
+
                     //targetElement.innerHTML += "<div class='row' id='my_row'></div>";
 
 
@@ -2544,7 +2544,7 @@ var machine = {
                     var tr = document.createElement("tr");
                     tr.classList.add("row");
                     tr.classList.add("justify-content-md-center");
-                    tr.setAttribute("id","my_row")
+                    tr.setAttribute("id", "my_row")
                     targetElement.appendChild(tr);
 
                     for (z = 0; z < 13; z++) {
@@ -2575,7 +2575,7 @@ var machine = {
                     var tra = document.createElement("tr");
                     tra.classList.add("row");
                     tra.classList.add("justify-content-md-center");
-                    tra.setAttribute("name","my_row")
+                    tra.setAttribute("name", "my_row")
 
                     targetElement.appendChild(tra);
 
